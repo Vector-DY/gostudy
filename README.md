@@ -1,2 +1,2 @@
-go study program
 # gostudy
+go study program
